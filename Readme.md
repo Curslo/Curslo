@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Richard Kisivii
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializing in **full-stack development** with a focus on building scalable and maintainable applications.
+Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializing in **full-stack development** focusing on building scalable and maintainable applications.
 
 ## 🚀 About Me
 - 🔨 I love working with **Node.js, TypeScript, React, Prisma, PostgreSQL**
@@ -26,7 +26,7 @@ AI-powered assistant for developers, streamlining workflows and automating tasks
 A high-performance, modular e-commerce platform built using **Turborepo, Next.js, and NestJS**.
 
 ### 🔹 [curslo-string-utility package](https://www.npmjs.com/package/curslo-string-utilities?activeTab=readme)
-A string utility package bundles with alot of functions to manipulate strings**Node.js, Typescript, Jest, Github Actions**.
+A string utility package bundles with a lot of functions to manipulate strings**Node.js, Typescript, Jest, GitHub Actions**.
 
 ### 🔹 [My Portfolio](https://richard-kisivii-xi-ten.vercel.app)
 A high-performance, modular e-commerce platform built using **Next.js**.
