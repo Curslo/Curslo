@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Richard Kisivii
+# Hi there! 👋 I'm Richard
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializing in **full-stack development** focusing on building scalable and maintainable applications.
 
